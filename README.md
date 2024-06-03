@@ -9,7 +9,7 @@ Collab Notebook:
 
 - [Notebook Link](https://colab.research.google.com/drive/1iNqUznoF2nDKdOS7XG0-85iJyzBttVeD?usp=sharing)
 
-
+## Run `example.py` to get the visualization.
 ### Shannon-Fano Algorithm
 
 The Shannon-Fano algorithm is a technique used for lossless data compression, primarily in the field of information theory. Named after Claude Shannon and Robert Fano, it's one of the early techniques developed for data compression.
